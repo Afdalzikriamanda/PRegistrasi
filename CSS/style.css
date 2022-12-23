@@ -46,8 +46,10 @@ body {
 
 .wrapper .left img {
     display: block;
-    width: 220px;
+    width: 100%;
     margin: 25px auto 0;
+    height: auto;
+    
 }
 
 .wrapper .right {

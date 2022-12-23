@@ -47,9 +47,9 @@ body {
 .wrapper .left img {
     display: block;
     width: 100%;
-    margin: 25px auto 0;
+    margin: 55px auto 0;
     height: auto;
-    
+
 }
 
 .wrapper .right {
@@ -116,4 +116,9 @@ body {
     background-color: #ffeaca;
     color: black;
     text-align: center;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
 }
